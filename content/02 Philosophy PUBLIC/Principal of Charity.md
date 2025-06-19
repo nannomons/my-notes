@@ -1,0 +1,1 @@
+To understand something—an argument—in its strongest and most persuasive version. 

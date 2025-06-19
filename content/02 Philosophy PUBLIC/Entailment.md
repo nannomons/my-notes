@@ -1,0 +1,1 @@
+If A is true, B must follow. A necessarily leads to B.

@@ -1,0 +1,1 @@
+One of the pioneers of [[analytic philosophy]]. 

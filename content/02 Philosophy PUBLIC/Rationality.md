@@ -1,0 +1,1 @@
+Ability to reason and be persuaded by [[02 Philosophy PUBLIC/Arguments]]. 
