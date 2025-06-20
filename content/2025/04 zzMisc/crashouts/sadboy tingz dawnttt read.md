@@ -1,0 +1,1 @@
+nvm go sa discord lmfaoooo idgaf about your stupid selfish selves fuck off i dont need you guys i always thrived without friends anyway

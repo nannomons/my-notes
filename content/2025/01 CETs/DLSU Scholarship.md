@@ -1,0 +1,25 @@
+# Requirements by **JUNE 10, 2025**
+- [ ] **Person who will finance your education** (Parents, relatives, self, scholarship besides DLSU scholarship and amount, educational plan, or others)
+- [ ] **Daily mode of transportation** to and from DLSU
+- [ ] **Type of residential ownership** (Owned, owned mortgaged, rented, rented free/living with relatives)
+- [ ] **House floor area** (in sqm)
+- [ ] **Telephone bill**
+- [ ] Average **monthly cellular phone bill** for the last 3 months
+- [ ] Change co-residing sisters to 2
+- [ ] **Non-earning Single Sisters** living with the family
+- [ ] Papa School Last Attended
+- [ ] Mommy School Last Attended
+- [ ] **Ownership of family vehicle**
+
+- [ ] **Vicinity Map Form** - [Link](https://www.dlsu.edu.ph/wp-content/uploads/pdf/scholarships/online_application/sfa_vicmap.pdf)
+- [ ] **Photos of Family Residence** (i.e. façade of the house/front view, living room, kitchen, and bedroom) - Applicant must be in all photos to be uploaded.
+- [ ] Official **electric bill** for the last 3 months (scanned or electronic copy of the electric bill)
+- [ ] Official **Water bill** for the last 3 months (scanned or electronic copy of the water bill)Official Telephone bill for the last 3 months (scanned or electronic copy of the telephone bill)     
+- [ ] **Internet/Wifi bill/Cellular phone bill** for the last 3 months (for postpaid plan holder) 
+- [ ] **Income Tax Return  for Year 2024** or Certificate of Employment and Compensation for Year 2025 (Parents/ Legal Guardian/ Employed Siblings)
+- [ ] Respond to the questions below in a concise essay format, **within a 2-page limit (single-spaced),** without copying the questions themselves: 
+	- [ ] (1) What are your motivations for applying to DLSU?
+	- [ ] (2) In consideration of your personal and financial circumstances, please articulate the reasons why you believe you are a deserving recipient of this scholarship grant. Your response should provide a thoughtful and specific account.
+	- [ ] (3) How would you describe your study habits and how do you think it will help you succeed in your studies?
+	- [ ] (4) If you are granted the scholarship, how do you envision using your experience and knowledge to benefit others, either directly or indirectly, and thus paying it forward?
+- [ ] Upload **Certificate of Good Moral Character** issued by the School Prefect of Discipline/ Guidance Counselor / Principal

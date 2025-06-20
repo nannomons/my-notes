@@ -1,0 +1,5 @@
+- [x] SCRATCH PAPERS -> MAGAZINE HOLDER THINGY
+- [x] ELECTRONICS
+- [x] CET FILES/IMPORTANT FILES -> MAGAZINE HOLDER THINGY
+
+putangina on hold tanginang tatay to eh 

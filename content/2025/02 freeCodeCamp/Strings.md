@@ -1,0 +1,1 @@
+words and stuff that arent to be used math on n stuff

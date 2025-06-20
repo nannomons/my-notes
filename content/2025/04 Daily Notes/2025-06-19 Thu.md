@@ -1,0 +1,18 @@
+---
+tags:
+  - DailyNotes
+---
+> **THE HORRORS PERSIST BUT SO DO YOU.** [Tumblr April 29, 2023.](https://bbbeartrick.tumblr.com/post/715924283619246080)
+
+# Main Tasks
+
+
+# Todoist
+```todoist
+filter: "7 days | overdue"
+sorting:
+    - date
+    - priority
+```
+
+# Notes

@@ -1,0 +1,7 @@
+Attach PDF/ scanned copy of your Form 138 (complete Senior High Grade 12 Report Card, and signed by the School Registrar or Principal). Be sure to include all pages, front and back. Accepted applicants who cannot submit the needed online credentials starting May 21-30, 2025 should download the Conditional Admission Contract (CAC) from [https://ustet.ust.edu.ph/results](https://ustet.ust.edu.ph/results). **For those submitting the CAC, please submit Form 138 on or before June 15, 2025 at the Dean's Office of the College of Science.** In the event that you cannot submit on the above-mentioned date, kindly secure and attach the clearance from the school where you graduated on the exact date for the release of Form 138.
+
+---
+
+Attach PDF/ scanned copy of your Certificate of Good Moral Character from school principal/head/guidance counselor. Accepted applicants who cannot submit the needed online credentials starting May 21 until May 30 and original credentials from May 21-31, 2025 should download the Conditional Admission Contract (CAC) from [https://ustet.ust.edu.ph/results](https://ustet.ust.edu.ph/results). 
+
+**For those submitting the CAC, please submit the Certificate of Good Moral Character on or before May 31, 2025 dated no earlier than April 15, 2025 to the Dean's Office of the College of Science.**  In the event that you cannot submit on the above mentioned date, kindly secure and attach the clearance from the school where you graduated on the exact date for the release of GMC.
