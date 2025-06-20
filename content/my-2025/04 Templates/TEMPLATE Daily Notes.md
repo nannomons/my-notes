@@ -1,6 +1,8 @@
 ---
 tags:
   - DailyNotes
+publish: false
+title: Daily note! Private!
 ---
 > **THE HORRORS PERSIST BUT SO DO YOU.** [Tumblr April 29, 2023.](https://bbbeartrick.tumblr.com/post/715924283619246080)
 

@@ -1,7 +1,7 @@
 ---
 title: Philosophy
 draft: false
-publish: true
+publish: "true"
 tags:
 ---
  

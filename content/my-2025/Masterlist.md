@@ -11,7 +11,7 @@ tags:
 [[Chemistry]]
 [[Mathematics]]
 [[Physics]]
-[[02 Philosophy/Philosophy]]
+[[Philosophy (Mine)]]
 
 [[Excel Expert]] 
 
