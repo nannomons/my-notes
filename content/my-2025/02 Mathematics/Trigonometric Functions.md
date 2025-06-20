@@ -1,3 +1,8 @@
+---
+title: Trigonometric Functions
+publish: true
+tags:
+---
 $$ \sin\theta = \frac{Opposite}{Hypotenuse} $$
 $$ \cos\theta = \frac{Adjacent}{Hypotenuse} $$
 $$ tan \theta = \frac{Opposite}{Adjacent} $$

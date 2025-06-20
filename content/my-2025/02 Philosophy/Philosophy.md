@@ -1,5 +1,5 @@
 ---
-title: How to publish Obsidian notes with Quartz on GitHub Pages
+title: Philosophy
 draft: false
 publish: true
 tags:
@@ -12,7 +12,7 @@ eyyy philosophy let's fucking gewww FUCK I HATE PHILOSOPHY NGA PALA
 # WORD DUMP HEREZ: 
 [[Socratic Method]] 
 [[Altruism]] 
-**[[Plato's Academy]] vs. [[02 Philosophy/Aristotle's Lyceum]]:** Earliest "Universities"  
+**[[Plato's Academy]] vs. [[Aristotle]]:** Earliest "Universities"  
 [[02 Philosophy/Principal of Charity]] 
 ## People
 [[02 Philosophy/Bertrand Russell]] 

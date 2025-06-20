@@ -1,3 +1,8 @@
+---
+title: Mathematics
+publish: true
+tags:
+---
 # Fundamental Mathematics
 # Algebra
 # Advanced Algebra

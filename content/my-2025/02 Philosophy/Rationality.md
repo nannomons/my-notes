@@ -1,5 +1,5 @@
 ---
-title: How to publish Obsidian notes with Quartz on GitHub Pages
+title: Rationality
 draft: false
 publish: true
 tags:

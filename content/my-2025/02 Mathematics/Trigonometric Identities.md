@@ -1,3 +1,8 @@
+---
+title: Trigonometric Identities
+publish: true
+tags:
+---
 $$ \tan\theta = \frac{\sin\theta}{\cos\theta} $$
 $$ \cot\theta = \frac{\cos\theta}{\sin\theta} $$
 

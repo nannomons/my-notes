@@ -1,6 +1,5 @@
 ---
 title: How to publish Obsidian notes with Quartz on GitHub Pages
-draft: true
-publish: false
+publish: true
 tags:
 ---

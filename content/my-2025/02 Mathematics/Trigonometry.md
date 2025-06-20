@@ -1,3 +1,8 @@
+---
+title: Trigonometry
+publish: true
+tags:
+---
 
 [[Basic Trigonometry]]
 [[Advanced Trigonometry]]

@@ -1,4 +1,4 @@
-1. [[../03 Movies/Whiplash (2014)|Whiplash (2014)]]
+1. [[Whiplash (2014)|Whiplash (2014)]]
 2. [[I Saw the TV Glow]]
 3. [[Spiderman Into The Spider-verse]]
 4. [[Megamind]]
