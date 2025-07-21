@@ -43,7 +43,7 @@ Submission of Application and Requirements is open until MAY 30, 2025.
 - [ ] List your **siblings' names** in order of age, specifying their age, marital status (single or married) and whether they are studying or working. **If working, provide their annual income.**
 - [ ] Existing **Scholarship Application** (Indicate the name of the scholarship/s you are applying to or planning to apply to and the **expected amount of grant and allowances**. (ex. DOST Scholarship - around Php 120,000); Put N/A if not applicable)
 	- [ ] [[DOST-SEI Scholarship]]
-	- [ ] [[DLSU]]
+	- [ ] [[00 DLSU (Main)]]
 	- [ ] [[Et Yuchengco Scholarship]]
 
 # Link 

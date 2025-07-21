@@ -17,7 +17,7 @@ yeah i was dpwas-ed but does that really count? like does that actually genuinel
 
 not to compare myself to my peers and not to downplay my achievement pero PUTANG INA talaga. i'm happy for them pero sana sumama nalang ako sa kanila. i should just have shifted to baguio with abby. should've just taken feu tech with the rest of them. putangina.
 
-# by extension: support nila ako to enroll in [[DLSU]] instead
+# by extension: support nila ako to enroll in [[00 DLSU (Main)]] instead
 like what the FUCK man. sobrang burden ko na nga, why do you keep supporting me? sana sinabi niyo nalang na mag-[[UST]] ako or some shit. it's fine, diba? why? nung una, di support si ate daren. if anything, si papa and ate nica lang yung gora. so bakit? hindi ko gets. HINDI KO GETS PILITIN NIYO AKO PUMASOK SA USTE NALANG PLEASE ANG SAKIT NA DI KO GETS. 
 
 hindi ko na alam, guys! ano na! shit! sobrang labag sa kalooban, i feel like a thief. parang ninanakaw ko yung buhay nila. parang di ko talaga deserve to. di ko deserve to, putangina.

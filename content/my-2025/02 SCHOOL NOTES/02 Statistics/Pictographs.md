@@ -1,0 +1,1 @@
+==Pictographs== are ways of presenting data using graphics. 

@@ -6,8 +6,8 @@ LRN: 406393152520
 [[ADMU]] PASSED 🔥 BS Learn
 [[Mapua Intramuros]] PASSED 🔥 BS Computer Engineering
 [[UST]] PASSED 🔥 BS Data Science and Analytics
-[[DLSU]] PASSED 🔥 BS Statistics
-[[UP]] PASSED 🔥 DPWAS 
+[[00 DLSU (Main)]] PASSED 🔥 BS Statistics
+[[UP]] PASSED 🔥 DPWAS—nvm
 [[PUP]] PASSED 🔥
 [[FEU Tech]] PASSED 🔥BS Computer Science, Major in Data Science
 
@@ -17,7 +17,7 @@ LRN: 406393152520
 # Scholarships
 [[DOST-SEI Scholarship]] RESULTS RELEASE **JUNE 2025**
 [[GBF Scholarship]] 
-[[DLSU]] 
+[[00 DLSU (Main)]] 
 [[NU Fairview]] 
 
 #Mains 

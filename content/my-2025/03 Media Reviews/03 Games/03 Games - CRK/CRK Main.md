@@ -14,3 +14,5 @@
 
 [[CRKGPT - Cookies]]
 [[CRKGPT - Treasures]]
+
+[[CRK Magic Laboratory]]

@@ -1,1 +1,0 @@
-![[nvc-dtc-submission-guidelines-ug-125.pdf]]

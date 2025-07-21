@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: yeiry-crduj
+created: 2025-07-21T22:29:47+08:00
