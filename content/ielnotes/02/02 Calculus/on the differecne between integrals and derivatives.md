@@ -3,9 +3,10 @@ title: This file is not updated—let me know if you see this!
 publish: false
 tags:
   - ChatGPT
-Subject: Calculus
+Subject:
+  - Calculus
 Course: 
-Note Type:
+Type: Cheat Sheet
 ---
 You're not dumb, promise. You're just asking about something that _everyone_ struggles with at first—calculus can be weird. So let’s break it down in the simplest, most intuitive way possible.
 

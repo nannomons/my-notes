@@ -2,17 +2,16 @@
 tags:
   - Movies
   - Reviews
+publish: 
+Date: 
+Where: 
+With Whom: 
+Rating: 
+Release:
 ---
-> 
+> Quote here.
 
-# Tags
-Theme: 
-When? 
-Where? 
-With whom? 
-Released when? 
-
-# Movie Summary
+# Summary
 
 # Review
 # #LetterboxD Review

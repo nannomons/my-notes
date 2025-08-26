@@ -8,9 +8,9 @@ Course:
 Type: Note Hub
 ---
 ```dataview
-table title, subject, file.folder
+table title, file.folder, type
 where contains(subject, "Chemistry")
-sort file.mtime desc
+sort type desc, file.mday desc
 ```
 
 - [x] [[Matter]]

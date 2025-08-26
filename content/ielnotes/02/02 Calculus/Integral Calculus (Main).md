@@ -11,16 +11,12 @@ Type: Note Hub
 # Unit 1:
 ## Lesson 1: Accumulations of change introduction
 1. [[Definite Integrals]] 
-2. [[Right Reimann Sum]]
+2. [[02/02 Calculus/Reimann Sum]]
 3. [[Antiderivative]] 
+4. **(From [[Differential Calculus]])** [[Instantaneous Rate of Change]]; $\int_{a}^{b} x^2 \, dx$
 
-**(From [[Differential Calculus]])** [[Instantaneous Rate of Change]]
-
-$$
-\int_{a}^{b} x^2 \, dx
-$$
-
-[[Accumulation of Change]]
+5. [[Accumulation of Change]]
+6. [[Reimann Approximation]]
 
 ---
 # Other Resources and Things
@@ -28,8 +24,9 @@ $$
 2. [[another thing i got a mistake on]]
 3. [[i STILL dont understand apparently rip]]
 
-## GPT
+## uhhhh
 [[on the differecne between integrals and derivatives]]
+[[NO READ THIS THIS IS THE DIFFERENCE BETWEEN INTEGRALS AND DERIVATIVES TRUST ME tgus is me trust me]]
 
 ---
 # LaTeX

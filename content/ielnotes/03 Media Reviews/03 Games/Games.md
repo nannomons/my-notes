@@ -2,6 +2,8 @@
 tags:
   - Mains
   - Games
+  - Reviews
+Type: PARA Mains
 ---
 # Cookie Clicker
 [[Party Pastry]]

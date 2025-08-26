@@ -2,6 +2,7 @@
 tags:
   - Movies
   - Mains
+  - Reviews
 ---
 # Musicals/Theater Kid Shit
 - [x] [[Whiplash (2014)]]

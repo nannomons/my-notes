@@ -12,9 +12,9 @@ Type: Note Hub
 # Table of Contents
 ## Dataview
 ```dataview
-table title, subject, file.folder
+table title, file.folder, type
 where contains(subject, "Philosophy")
-sort file.mtime desc
+sort type desc, file.mday desc
 ```
 ## [[History of Philosophy]]
 

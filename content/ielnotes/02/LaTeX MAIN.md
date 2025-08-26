@@ -5,7 +5,7 @@ tags:
 Subject:
   - LaTeX
 Course: 
-Note Type: Cheat Sheet
+Type: Cheat Sheet
 ---
 # Dataview
 ```dataview

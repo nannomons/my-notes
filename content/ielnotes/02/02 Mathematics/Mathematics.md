@@ -15,9 +15,9 @@ Type: Note Hub
 
 ## Dataview
 ```dataview
-table title, subject, file.folder
+table title, file.folder, type
 where contains(subject, "Mathematics")
-sort file.mtime desc
+sort type desc, file.mday desc
 ```
 # Fundamental Mathematics
 # Algebra

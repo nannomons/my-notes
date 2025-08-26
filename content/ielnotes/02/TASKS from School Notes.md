@@ -4,8 +4,9 @@ publish: false
 tags: 
 Subject: 
 Course: 
-Note Type:
+Type:
 ---
+
 ```tasks 
 not done
 preset this_folder

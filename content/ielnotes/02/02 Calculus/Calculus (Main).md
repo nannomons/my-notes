@@ -8,10 +8,15 @@ Type: Note Hub
 ---
 [[Integral Calculus (Main)]] 
 [[Differential Calculus]]
+
+[[Composite Functions]]
+
+[[anki for calculus]]
+
+---
 ## Dataview
 ```dataview
-table title, subject, file.folder
+table title, file.folder, type
 where contains(subject, "Calculus")
-sort file.mtime desc
+sort type desc, file.mday desc
 ```
-
