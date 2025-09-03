@@ -1,12 +1,12 @@
 ---
 title: Combinations
-publish: false
-tags: 
+publish: true
+tags:
 Subject:
   - Statistics
-Course: 
+Course:
 Type: Topic Notes
-Difficulty: 
+Difficulty:
 Date:
 ---
 ![[Pasted image 20250810073231.png]]

@@ -16,6 +16,12 @@ where contains(subject, "Statistics")
 sort type desc, file.mday desc
 ```
 
+[[Areas of Statistics]]
+[[Applications of Stats]]
+[[Scales of Measurement]]
+[[Methods of Data Collection]] 
+
+[[Activity 2 Basic Concepts]]
 # Khan Academy: Statistics and Probability
 ## Unit 1: Analyzing Categorical Data
 [[Basic Terms]] 

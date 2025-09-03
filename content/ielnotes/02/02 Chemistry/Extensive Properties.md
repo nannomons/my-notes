@@ -1,3 +1,8 @@
+---
+publish: true
+Subject:
+  - Chemistry
+---
 ***Extensive properties*** are properties that **depend** of the amount of matter in a substance. 
 
 - Mass

@@ -1,3 +1,8 @@
+---
+publish: true
+Subject:
+  - Chemistry
+---
 # Classification of Colloids
 ![[Chemistry_Classification of Colloids.jpg]]
 [S: BYJU's](https://byjus.com/chemistry/classification-of-colloids/)

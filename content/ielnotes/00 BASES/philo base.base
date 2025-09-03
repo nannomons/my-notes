@@ -1,0 +1,16 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - Subject.contains("Philosophy")
+  - type: table
+    name: Folder Philo
+    filters:
+      and:
+        - file.folder == "02/02 Philosophy"
+    order:
+      - publish
+      - Subject
+      - file.name
+      - title

@@ -3,6 +3,8 @@ title: Aristotle
 draft: false
 publish: true
 tags:
+Subject:
+  - Philosophy
 ---
  
 > "Man is the rational animal." -[[Aristotle]] 

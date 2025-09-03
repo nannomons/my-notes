@@ -3,6 +3,9 @@ title: Deduction
 draft: false
 publish: true
 tags:
+Subject:
+  - Philosophy
+  - Mathematical Reasoning
 ---
 [[Entailment]]: If A is true, B must follow. A necessarily leads to B.
 

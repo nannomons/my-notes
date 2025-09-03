@@ -1,15 +1,16 @@
 ---
 title: This file is not updated—let me know if you see this!
 publish: false
-tags: 
+tags:
+  - Anki
 Subject:
   - Mathematics
-Course: 
+Course:
 Type: Flashcards
-Difficulty: 
+Difficulty:
 Date:
 ---
-TESTING DECK: Mental Math
+TESTING DECK: MATHEMATICS::Mental Math
 
 Q: 8! 
 A: 40320

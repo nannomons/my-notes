@@ -3,6 +3,8 @@ title: Rationality
 draft: false
 publish: true
 tags:
+Subject:
+  - Philosophy
 ---
 **==Rationality==** is our **ability to reason and be persuaded** by [[Arguments]]. 
 

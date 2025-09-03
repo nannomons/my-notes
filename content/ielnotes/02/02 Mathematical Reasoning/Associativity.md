@@ -1,0 +1,1 @@
+Associativity means that grouping doesn't matter if a, b, and c are all added or multiplied with each other.

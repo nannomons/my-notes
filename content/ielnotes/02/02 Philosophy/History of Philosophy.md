@@ -2,6 +2,8 @@
 title: History of Philosophy
 publish: true
 tags:
+Subject:
+  - Philosophy
 ---
 - **Ancient Greece.** Buddhism and Jainism in Asia; Philosophy in Greece. 
 - **Phylos vs. Mythos**: Science *(Scientific and analytical)* vs. Storytelling *(Literary like Homer)*. 

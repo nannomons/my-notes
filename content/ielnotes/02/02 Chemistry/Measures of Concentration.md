@@ -1,3 +1,8 @@
+---
+publish: true
+Subject:
+  - Chemistry
+---
 1. [[Molarity]]
 2. [[Molality]]
 3. [[Mass Percent]]

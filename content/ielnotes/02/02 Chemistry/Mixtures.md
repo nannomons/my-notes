@@ -1,3 +1,8 @@
+---
+publish: true
+Subject:
+  - Chemistry
+---
 
 [[Mixtures]] are made up of two or more different kinds of [[Pure Substances]]. 
 

@@ -2,6 +2,8 @@
 title: Socrates
 publish: true
 tags:
+Subject:
+  - Philosophy
 ---
 THEEEEEEEE philosopher of all philosophers—guy that taught [[Aristotle]] AND [[Plato]], who taught literally everyone else. 
 

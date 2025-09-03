@@ -3,9 +3,15 @@ title: Trigonometric Functions
 publish: true
 tags:
 ---
+# Sine
 $$ \sin\theta = \frac{Opposite}{Hypotenuse} $$
+# Cosine
 $$ \cos\theta = \frac{Adjacent}{Hypotenuse} $$
+# Tangent
 $$ tan \theta = \frac{Opposite}{Adjacent} $$
+$$
+\tan(x)=\frac{\sin(x)}{\cos(x)}
+$$
 
 ---
 

@@ -1,3 +1,8 @@
+---
+publish: true
+Subject:
+  - Chemistry
+---
 # Properties of Non-metals
 - Not lustrous
 - Not ductile

@@ -2,6 +2,8 @@
 title: Branches of Philosophy
 publish: true
 tags:
+Subject:
+  - Philosophy
 ---
 1. [[Metaphysics]]: Studies the nature of reality.
 2. [[Epistemology]]: Studies the nature of knowledge.

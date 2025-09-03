@@ -1,0 +1,23 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - Subject.contains("Chemistry")
+  - type: table
+    name: folder chem
+    filters:
+      and:
+        - file.folder == "02/02 Chemistry"
+    order:
+      - publish
+      - Subject
+      - file.name
+      - file.size
+      - Type
+      - title
+    sort:
+      - property: file.size
+        direction: DESC
+    columnSize:
+      note.Type: 108

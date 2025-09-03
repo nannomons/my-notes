@@ -3,6 +3,8 @@ title: Validity
 draft: false
 publish: true
 tags:
+Subject:
+  - Philosophy
 ---
 [[Arguments]] are valid if the truth of the premises entails *(See: [[Entailment]])* the truth of the conclusion.
 

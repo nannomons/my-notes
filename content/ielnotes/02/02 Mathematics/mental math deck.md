@@ -10,7 +10,7 @@ Type: Flashcards
 Difficulty: 
 Date:
 ---
-TARGET DECK: Mental Math
+TARGET DECK: MATHEMATICS::Mental Math
 
 | Front                           | Back |
 | ------------------------------- | ---- |

@@ -44,7 +44,7 @@ Start by familiarizing yourself with the fields you're entering:
         
 2. **[[Statistics]]:**
     
-    - [[Descriptive vs Inferential Stats]]
+    - [[Descriptive Statistics]] vs [[Inferential Statistics]] 
         
     - [[Distributions]]: Normal, Binomial, Poisson, etc.
         

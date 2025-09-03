@@ -1,0 +1,6 @@
+filters:
+  and:
+    - Course.contains("MTH101A")
+views:
+  - type: table
+    name: Table

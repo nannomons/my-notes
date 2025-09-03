@@ -1,3 +1,8 @@
+---
+publish: true
+Subject:
+  - Chemistry
+---
 # States of Matter
 - Solid Liquid Gas duh
 - Plasma

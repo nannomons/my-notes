@@ -1,0 +1,6 @@
+- Experimental Method
+	- Observational Method
+	- Retrospective (or case-control) studies
+	- Prospective (or longitudinal or cohort) studies
+- Survey Method
+- Use of Existing Records

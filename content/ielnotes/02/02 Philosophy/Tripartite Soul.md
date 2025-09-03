@@ -3,6 +3,8 @@ title: Tripartite Soul
 draft: false
 publish: true
 tags:
+Subject:
+  - Philosophy
 ---
 The "self" is divided into three aspects. 
 1. **The Rational:** Logical; how we are persuaded by science and analytics.

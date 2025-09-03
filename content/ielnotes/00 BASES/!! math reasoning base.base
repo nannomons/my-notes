@@ -1,0 +1,28 @@
+views:
+  - type: table
+    name: by course
+    filters:
+      and:
+        - Course.contains("STT200A")
+    order:
+      - publish
+      - file.name
+      - file.folder
+      - Subject
+      - Course
+      - title
+  - type: table
+    name: math reasoning folder
+    filters:
+      and:
+        - file.folder == "02/02 Mathematical Reasoning"
+    order:
+      - publish
+      - file.name
+      - Course
+      - Subject
+      - title
+      - Type
+    sort:
+      - property: file.mtime
+        direction: DESC

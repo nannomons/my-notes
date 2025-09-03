@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - Subject.contains("Statistics")
+    order:
+      - publish
+      - file.name
+      - Subject
+      - Course
+      - title

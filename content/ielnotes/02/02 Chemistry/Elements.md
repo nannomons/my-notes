@@ -1,3 +1,8 @@
+---
+publish: true
+Subject:
+  - Chemistry
+---
 [[Elements]] are the fundamental substances that are **made of only one kind of atom**. These **cannot** be any more physically or chemically simplified or decomposed.
 
 1. [[Metals]] — Small number of [[Valence Electrons]]; donates [[Electrons]] during [[Ionic Bonding]]; forms [[Cations]] when ionized. *E.g. Potassium*

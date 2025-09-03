@@ -3,6 +3,8 @@ title: Epistemology
 draft: false
 publish: true
 tags:
+Subject:
+  - Philosophy
 ---
 > Knowing about knowing.
 

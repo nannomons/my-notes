@@ -10,7 +10,7 @@ Type: Flashcards
 Difficulty: 
 Date:
 ---
-TARGET DECK: Mental Math
+TARGET DECK: MATHEMATICS::Mental Math
 
 Q: 6x1 
 A: 6

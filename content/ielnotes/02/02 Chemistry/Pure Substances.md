@@ -1,3 +1,8 @@
+---
+publish: true
+Subject:
+  - Chemistry
+---
 [[Pure Substances]] are made of **only one kind of substance** and has constant properties and composition. These **cannot** be physically separated.
 
 ---

@@ -12,3 +12,5 @@ Date:
 ---
 FUCK MY STUPID BAKA LIFE
 
+[[Sum of Two Cubes (S2C)]]
+[[Difference of Two Cubes (D2C)]] 

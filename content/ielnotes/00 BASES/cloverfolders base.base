@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      or:
+        - file.tags.contains("CloverFolders")
+        - file.tags.contains("DailyNotes")
+    order:
+      - publish
+      - file.name
+      - title
+      - tags
+      - file.tags
+      - Date
+      - file.folder

@@ -1,3 +1,8 @@
+---
+publish: true
+Subject:
+  - Chemistry
+---
 [[Compounds]] are made up of only one type of [[Molecule]] that are composed of two or more [[Elements]] and can be separated into simpler substances and elements by **chemical methods only**.
 
 1. [[Ionic]] — Components are a pair of [[Anions]] group and a [[Cations]] group. [[Electrons]] are transferred from the [[Cations]] to the [[Anions]], usually formed when [[Metals]] react to [[Non-metals]]. *E.g. [[NaCl]]*

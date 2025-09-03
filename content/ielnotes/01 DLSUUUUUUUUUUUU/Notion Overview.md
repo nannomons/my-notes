@@ -1,0 +1,7 @@
+- academics
+	- dlsu websites
+	- courses, professors, descriptions, syllabus 
+	- friends :))
+	- calendar
+- org stuff (hopefully)
+	- 

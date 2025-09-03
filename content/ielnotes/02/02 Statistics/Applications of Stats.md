@@ -1,0 +1,3 @@
+- To provide information
+- To provide comparison
+- To help discern relationships

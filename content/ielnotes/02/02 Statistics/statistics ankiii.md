@@ -1,12 +1,13 @@
 ---
 title: This file is not updated—let me know if you see this!
 publish: false
-tags: 
+tags:
+  - Anki
 Subject:
   - Statistics
-Course: 
+Course:
 Type: Flashcards
-Difficulty: 
+Difficulty:
 Date:
 ---
 TARGET DECK: STATISTICS

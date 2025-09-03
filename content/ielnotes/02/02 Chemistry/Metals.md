@@ -1,3 +1,8 @@
+---
+publish: true
+Subject:
+  - Chemistry
+---
 # Properties of Metals
 - Lustrous
 - Ductile

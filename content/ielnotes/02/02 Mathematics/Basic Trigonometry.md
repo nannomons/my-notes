@@ -1,12 +1,12 @@
 ---
 title: Basic Trigonometry
 draft: false
-publish: false
-tags: 
+publish: true
+tags:
 Subject:
   - Trigonometry
   - Mathematics
-Course: 
+Course:
 Type: Note Hub
 Difficulty:
 ---
@@ -18,4 +18,4 @@ Difficulty:
 
 [[Unit Circle]]
 
-[[Radians]]
+[[Radians]] 

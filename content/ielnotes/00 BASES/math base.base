@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - Subject.contains("Mathematics")
+    order:
+      - publish
+      - file.folder
+      - file.name
+      - title

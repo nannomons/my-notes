@@ -1,0 +1,25 @@
+filters:
+  and:
+    - publish != true
+    - '!file.tags.contains("CloverFolders")'
+    - '!file.tags.contains("Anki")'
+    - '!file.tags.contains("DailyNotes")'
+views:
+  - type: table
+    name: unpublished table
+    filters:
+      or:
+        - publish != true
+    order:
+      - publish
+      - file.name
+      - tags
+      - Subject
+      - title
+    sort:
+      - property: file.mtime
+        direction: DESC
+      - property: tags
+        direction: ASC
+  - type: cards
+    name: View

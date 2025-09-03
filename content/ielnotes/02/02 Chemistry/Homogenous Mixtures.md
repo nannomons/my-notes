@@ -1,3 +1,8 @@
+---
+publish: true
+Subject:
+  - Chemistry
+---
 [[Homogenous Mixtures]] — Mixtures wherein **only one phase** is discernible with uniform composition and properties throughout. Commonly called **solutions** and can be separated into their component substances by physical methods, such as [[Distillation]] and [[crystallization]]. 
 
 - [[Concentration]] — Measure of the relative amounts of the components of a solution

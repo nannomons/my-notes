@@ -13,3 +13,5 @@ table title, subject, file.folder, publish
 where contains(type, "Flashcards")
 sort file.mday desc, file.folder asc, subject asc
 ```
+
+![[anki main but bases.base]]

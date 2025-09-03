@@ -1,1 +1,6 @@
+---
+publish: true
+Subject:
+  - Chemistry
+---
 The octet rule dictates that atoms are **most stable when their valence shells are filled with eight electrons**. It is based on the observation that the atoms of the main group elements have a tendency to participate in chemical bonding in such a way that each atom of the resulting molecule has eight electrons in the valence shell. The octet rule is only applicable to the main group elements. [S: BYJU's](https://byjus.com/chemistry/octet-rule-and-stability-of-atom/)

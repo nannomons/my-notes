@@ -1,3 +1,8 @@
+---
+publish: true
+Subject:
+  - Chemistry
+---
 1. All [[Nitrates]] are soluble
 2. All [[Chlorides]] are soluble except AgCl, Hg2Cl2, and PbCl2
 3. Most [[Sulfates]] are soluble

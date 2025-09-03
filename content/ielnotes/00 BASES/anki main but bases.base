@@ -1,0 +1,22 @@
+filters:
+  and:
+    - Type == "Flashcards"
+views:
+  - type: table
+    name: Table
+    order:
+      - publish
+      - file.name
+      - Subject
+      - title
+    sort:
+      - property: Subject
+        direction: ASC
+      - property: file.mtime
+        direction: DESC
+      - property: file.name
+        direction: DESC
+    columnSize:
+      note.title: 286
+  - type: cards
+    name: View

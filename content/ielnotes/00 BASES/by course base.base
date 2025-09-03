@@ -1,0 +1,20 @@
+filters:
+  and:
+    - "!Course.isEmpty()"
+views:
+  - type: table
+    name: Table
+    order:
+      - publish
+      - file.name
+      - Subject
+      - Type
+      - Course
+      - title
+    sort:
+      - property: Course
+        direction: ASC
+      - property: Type
+        direction: ASC
+    columnSize:
+      note.Type: 121

@@ -1,0 +1,13 @@
+filters:
+  and:
+    - Type == "Note Hub"
+views:
+  - type: table
+    name: Table
+    order:
+      - publish
+      - file.name
+      - file.folder
+      - title
+    columnSize:
+      file.name: 232
