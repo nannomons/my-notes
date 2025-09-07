@@ -10,7 +10,7 @@ Type: Flashcards
 Difficulty:
 Date:
 ---
-TARGET DECK: STT200A::AXIOMS::ADDITION
+TARGET DECK: STT200A::Week 1::AXIOMS::ADDITION
 
 Q: The set $\mathbb{R}$ is closed with respect to addition. If $a$ and $b$ are real numbers, then so is their sum $a+b$.
 A: Closure for addition
@@ -22,7 +22,7 @@ A: Commutativity for addition
 <!--ID: 1756830088292-->
 
 
-Q: For every $a$, $b$, and $c$ in $\mathbb{R}$, $(a +b) + c = a (b + c)$.
+Q: For every $a$, $b$, and $c$ in $\mathbb{R}$, $(a +b) + c = a +(b + c)$.
 A: Associativity for addition
 <!--ID: 1756830088299-->
 

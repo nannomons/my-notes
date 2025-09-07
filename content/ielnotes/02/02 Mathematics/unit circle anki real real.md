@@ -10,7 +10,7 @@ Type: Flashcards
 Difficulty:
 Date:
 ---
-TARGET DECK: TRIGONOMETRY - UNIT CIRCLE
+TARGET DECK: TRIGONOMETRY::UNIT CIRCLE
 
 Q: How do you find the *cosine theta* ($\cos\theta$) in a unit circle?
 A: Find the *x coordinate*. 

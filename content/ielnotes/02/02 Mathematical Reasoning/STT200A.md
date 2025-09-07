@@ -18,3 +18,6 @@ Course Base: [[!! math reasoning base.base]]
 3. [[Components of Modern Mathematics]]
 4. [[Mathematical Shorthands]]
 5. [[Mathematical Systems]] — [[Axioms]] 
+
+# [[STT200A Lecture 2]] 
+[[STT200ASEPT5.jpg]] 

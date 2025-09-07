@@ -1,11 +1,13 @@
 ---
-title: This file is not updated—let me know if you see this!
+title: Theorems Definition
 publish: true
-tags: 
-Subject: 
-Course: 
-Type: 
-Difficulty: 
+tags:
+Subject:
+  - Mathematical Reasoning
+Course:
+  - STT200A
+Type: Topic Notes
+Difficulty:
 Date:
 ---
 Any math statement that *can be shown as true* using accepted logical or mathematical arguments. 

@@ -5,5 +5,6 @@ Subject:
   - Mathematical Reasoning
 publish: true
 Type: Topic Notes
+title: Closure Definition
 ---
 Closure means that if two real numbers were added together, the result would still be a real number. 

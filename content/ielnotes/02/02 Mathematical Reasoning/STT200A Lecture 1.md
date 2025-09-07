@@ -1,14 +1,14 @@
 ---
-title: This file is not updated—let me know if you see this!
+title: STT200A Week 1 Lecture 1
 publish: true
 tags:
 Subject:
   - Mathematical Reasoning
 Course:
   - STT200A
-Type:
+Type: Lecture Notes
 Difficulty:
-Date:
+Date: 2025-09-02
 ---
 # [[Axiomatic Mathematics]] 
 - ***Mathematics***, from the Greek words *"mathema"* meaning "science, knowledge, and learning", and *"mathematikos"* meaning *"fond of learning"*.

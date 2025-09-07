@@ -1,5 +1,5 @@
 ---
-title: This file is not updated—let me know if you see this!
+title: Components of Modern Mathematics
 publish: true
 tags:
 Subject:

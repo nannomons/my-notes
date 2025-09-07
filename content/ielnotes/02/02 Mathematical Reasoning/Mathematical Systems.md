@@ -5,6 +5,7 @@ Subject:
   - Mathematical Reasoning
 publish: true
 Type: Topic Notes
+title: Mathematical Systems
 ---
 Consists of the following:
 1. A *set of elements* **(for [[Real Number System]], elements are *all real numbers*)**

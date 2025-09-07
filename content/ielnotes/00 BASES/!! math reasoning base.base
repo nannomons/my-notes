@@ -20,9 +20,11 @@ views:
       - publish
       - file.name
       - Course
+      - Type
       - Subject
       - title
-      - Type
     sort:
+      - property: Type
+        direction: ASC
       - property: file.mtime
         direction: DESC

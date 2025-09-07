@@ -7,16 +7,10 @@ views:
     order:
       - publish
       - file.name
-      - file.folder
       - Course
-      - Subject
       - title
     sort:
-      - property: file.folder
-        direction: ASC
       - property: Course
-        direction: ASC
-      - property: Subject
         direction: ASC
       - property: Type
         direction: ASC
