@@ -12,3 +12,9 @@ Then,
 
 # HW2 Bounded or Unbounded?
 ![[Pasted image 20250905155735.png]]
+
+# HW1 Sept. 9 What is infC? Zero, DNE, or something else? 
+![[Pasted image 20250909150350.png]]
+
+# HW3
+![[Pasted image 20250909154717.png]]

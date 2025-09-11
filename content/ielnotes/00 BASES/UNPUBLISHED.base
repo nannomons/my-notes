@@ -17,6 +17,8 @@ views:
       - Subject
       - title
     sort:
+      - property: file.folder
+        direction: ASC
       - property: file.mtime
         direction: DESC
       - property: tags

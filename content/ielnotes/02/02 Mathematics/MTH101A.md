@@ -20,5 +20,8 @@ only mids and finals are departmental
 
 # Module 1
 [[Module 1]]
+
+# Module 2
+[[Module 2]]
 # Module 3? 
 [[Exponents n Radicals]] 

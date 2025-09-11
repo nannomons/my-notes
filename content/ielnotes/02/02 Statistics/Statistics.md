@@ -16,6 +16,7 @@ where contains(subject, "Statistics")
 sort type desc, file.mday desc
 ```
 
+# [[STT201A Lecture 1]]
 [[Areas of Statistics]]
 [[Applications of Stats]]
 [[Scales of Measurement]]
