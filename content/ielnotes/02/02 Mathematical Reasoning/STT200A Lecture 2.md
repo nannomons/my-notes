@@ -16,7 +16,7 @@ Date: 2025-09-05
 3. [[Theorem 3]]: For all $a$ E $\mathbb{R}$, $a=(-(-a))$.
 4. [[Zero Product Property]]: If $ab-0$, then $a=0$ OR $b=0$. 
 
-[[HW1 MATH REASONING]]: In physical notebook.
+[[HW MATH REASONING]]: In physical notebook.
 
 # Definitions 
 LINE 23 : ![[Pasted image 20250905152059.png]]
