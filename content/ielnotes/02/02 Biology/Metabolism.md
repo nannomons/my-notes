@@ -1,3 +1,16 @@
+---
+title: Metabolism
+publish: true
+tags:
+Subject:
+  - Biology
+Course:
+  - FUNDBIO
+YearTerm: Y1T1
+Type: Topic Notes
+Difficulty:
+Date:
+---
 **Metabolism**, the sum of all *chemical reactions* in an organism.
 - **Catabolism:** 
 	- Cat sounds like cut—breaking down molecules to release energy

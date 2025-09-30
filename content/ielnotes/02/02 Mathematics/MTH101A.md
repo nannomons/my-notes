@@ -9,6 +9,7 @@ Course:
 Type: Note Hub
 Difficulty:
 Date:
+YearTerm: Y1T1
 ---
 # Notes
 aleks is considered assignments

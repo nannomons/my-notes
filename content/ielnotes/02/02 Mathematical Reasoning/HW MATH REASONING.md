@@ -47,3 +47,12 @@ Let $a,b,c \in \mathbb{Z}$ where $a|b$ and $a|c$.
 	$b+c=a(k+l)$ Associativity
 	Note that $k+l \in \mathbb{Z}$ by closure property, thus $a|(b+c)$ for some $m=k+l \in \mathbb{Z}$.
 
+# HW2 Sept. 16 
+![[Pasted image 20250916153527.png]] 
+
+# HW 3 Sept 16
+# HW1 Sept 19
+
+![[Pasted image 20250919153756.png]]
+
+![[Pasted image 20250919154114.png]]

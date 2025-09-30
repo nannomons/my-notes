@@ -1,3 +1,16 @@
+---
+title: Levels of Organization
+publish: true
+tags:
+Subject:
+  - Biology
+Course:
+  - FUNDBIO
+YearTerm: Y1T1
+Type: Topic Notes
+Difficulty:
+Date:
+---
 # Organization of Life
 1. Atom
 2. Molecule

@@ -1,3 +1,16 @@
+---
+title: Homeostasis
+publish: true
+tags:
+Subject:
+  - Biology
+Course:
+  - FUNDBIO
+YearTerm: Y1T1
+Type: Topic Notes
+Difficulty:
+Date:
+---
 **Homeostasis** is the ability to maintain stable internal conditions despite external changes. 
 
 The body adjust inputs/outputs until variables (temperature, ph, glucose) return to balance.

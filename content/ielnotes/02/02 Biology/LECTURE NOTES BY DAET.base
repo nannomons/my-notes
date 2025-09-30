@@ -1,0 +1,24 @@
+views:
+  - type: table
+    name: has date
+    filters:
+      and:
+        - "!Date.isEmpty()"
+    order:
+      - publish
+      - file.name
+      - title
+  - type: table
+    name: lecture notes
+    filters:
+      and:
+        - Type == "Lecture Notes"
+    order:
+      - file.name
+      - Course
+      - Date
+    sort:
+      - property: Course
+        direction: ASC
+      - property: Date
+        direction: DESC

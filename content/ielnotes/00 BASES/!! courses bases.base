@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - "!Course.isEmpty()"
+        - Type == "Note Hub"
+    order:
+      - publish
+      - file.name
+      - file.folder
+      - title
+      - YearTerm

@@ -2,6 +2,7 @@
 title: BioGPT Anki
 publish: false
 tags:
+  - ChatGPT
 Subject:
   - Biology
 Course:

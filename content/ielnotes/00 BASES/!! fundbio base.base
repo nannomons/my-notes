@@ -1,0 +1,38 @@
+views:
+  - type: table
+    name: in folder bio
+    filters:
+      and:
+        - file.inFolder("02/02 Biology")
+    order:
+      - publish
+      - file.name
+      - Type
+      - Subject
+      - Course
+      - title
+    sort:
+      - property: Type
+        direction: ASC
+      - property: title
+        direction: ASC
+      - property: file.mtime
+        direction: DESC
+    columnSize:
+      note.Type: 124
+  - type: table
+    name: fundbio course
+    filters:
+      and:
+        - Course.contains("FUNDBIO")
+    order:
+      - file.name
+      - Type
+      - file.folder
+      - Subject
+      - title
+    sort:
+      - property: Type
+        direction: ASC
+      - property: title
+        direction: ASC

@@ -1,0 +1,1 @@
+A *declarative sentence* whose truth value depends on the value of *one or more variables* is called a **propositional function**.

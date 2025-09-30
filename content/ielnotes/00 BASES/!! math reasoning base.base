@@ -7,10 +7,14 @@ views:
     order:
       - publish
       - file.name
-      - file.folder
-      - Subject
-      - Course
+      - Type
+      - Date
       - title
+    sort:
+      - property: Type
+        direction: ASC
+    columnSize:
+      note.Type: 156
   - type: table
     name: math reasoning folder
     filters:

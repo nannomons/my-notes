@@ -8,7 +8,7 @@ Course:
   - STT201A
 Type: Lecture Notes
 Difficulty:
-Date:
+Date: 2025-09-02
 ---
 # ![[Areas of Statistics]]
 # ![[Applications of Stats]]
